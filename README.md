@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adarsh Chaudhary</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer | DSA Learner</h3>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif" width="400" />
+</p>
+
 ---
 
 ✨ Welcome to my GitHub Profile ✨  
@@ -72,11 +76,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adarshchaudhary45&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=adarshchaudhary45&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshchaudhary45&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshchaudhary45&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -84,7 +88,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshchaudhary45&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=adarshchaudhary45&theme=tokyonight" />
 </p>
 
 ---
@@ -92,7 +96,7 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/adarsh-chaudhary-4655662a7/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
